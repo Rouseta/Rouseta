@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rouseta
-- 👀 I’m interested in programming, writing, reading, dancing, travelling...need more space :)
+- 👋 Hi, I’m @Rouseta, front-end developer Jr. 
+- 👀 I’m interested in programming, writing, reading, dancing, travelling...need more space to tell everything:)
 - 🌱 I’m currently learning front-end developing
-- 💞️ I’m looking to collaborate on...dunno now
+- 💞️ I’m looking to collaborate as a front-end developer jr. In the not too distant future I would like to become a fullstack developer cause I love BACKEND!
 - 📫 How to reach me https://www.linkedin.com/in/rosa-donoso-requena/
 
 
